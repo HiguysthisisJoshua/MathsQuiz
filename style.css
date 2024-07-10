@@ -1,0 +1,26 @@
+body
+{
+   background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/276/716/small_2x/abstract-geometric-background-in-flat-design-free-vector.jpg");
+ 
+}
+.login_div1
+{
+    float: none;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+#btn_Log
+
+{
+    border-width: 2px;
+    border-color: black;
+}
+#title
+{
+    font-size: 60px;
+    font-weight: bold;
+
+}
